@@ -1,5 +1,7 @@
 <template>
-  <div class='container'>添加学科对话框</div>
+  <div class="container">
+   
+  </div>
 </template>
 
 <script>
